@@ -19,7 +19,7 @@ Instead of utilizing standard MediaPipe skeleton tracking which is prone to fram
    https://youtu.be/n51y8M8Lsew?si=88EIJUDA42ZS6gO7
    https://youtu.be/lV3F3Kcj5vw?si=6NxsaGQWTOVq9725
 
-2. Normal
+3. Normal
    https://www.kaggle.com/datasets/sharjeelmazhar/human-activity-recognition-video-dataset
    
 ## Setup and Usage
